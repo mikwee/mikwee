@@ -1,5 +1,6 @@
-## Hi there 👋
+# Shalom! 👋
 
+I'm just an assistant librarian from Tel Aviv who codes in his spare time. I also love ska. 
 <!--
 **mikwee/mikwee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
