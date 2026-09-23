@@ -1,6 +1,6 @@
 # Shalom! 👋
 
-I'm just an assistant librarian from Tel Aviv who codes in his spare time. I also love ska. 
+I'm just a future university student from Tel Aviv who codes in his spare time. I also love ska and indie music. 
 <!--
 **mikwee/mikwee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
